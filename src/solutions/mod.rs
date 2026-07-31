@@ -1,3 +1,4 @@
 pub mod two_sum;
 pub mod largest_substring;
 pub mod largest_substring_return;
+pub mod median_of_two_sorted_arrays;
