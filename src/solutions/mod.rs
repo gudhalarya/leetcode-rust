@@ -3,3 +3,5 @@ pub mod largest_substring;
 pub mod largest_substring_return;
 pub mod median_of_two_sorted_arrays;
 pub mod palindrome;
+pub mod join_two_sorted_list;
+pub mod zigzag;
