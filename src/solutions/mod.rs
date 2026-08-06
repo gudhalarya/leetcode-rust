@@ -7,3 +7,4 @@ pub mod join_two_sorted_list;
 pub mod zigzag;
 pub mod reverse_integer;
 pub mod string_to_integer;
+pub mod roman_to_integer;
